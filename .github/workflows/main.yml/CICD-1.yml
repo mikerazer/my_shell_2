@@ -1,8 +1,5 @@
 name: CICD-1
 
-
-name: CICD-1
-
 on: 
   workflow_dispatch:
 
